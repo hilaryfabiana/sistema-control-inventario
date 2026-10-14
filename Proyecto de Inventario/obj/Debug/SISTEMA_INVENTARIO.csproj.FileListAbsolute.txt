@@ -1,0 +1,84 @@
+E:\SHIRLEY\Proyecto de Inventario\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.exe.config
+E:\SHIRLEY\Proyecto de Inventario\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.exe
+E:\SHIRLEY\Proyecto de Inventario\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.pdb
+E:\SHIRLEY\Proyecto de Inventario\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.AssemblyReference.cache
+E:\SHIRLEY\Proyecto de Inventario\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.frmGestionEquipos.resources
+E:\SHIRLEY\Proyecto de Inventario\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Properties.Resources.resources
+E:\SHIRLEY\Proyecto de Inventario\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.GenerateResource.cache
+E:\SHIRLEY\Proyecto de Inventario\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.CoreCompileInputs.cache
+E:\SHIRLEY\Proyecto de Inventario\Proyecto de Inventario\obj\Debug\Proyecto de Inventario.exe
+E:\SHIRLEY\Proyecto de Inventario\Proyecto de Inventario\obj\Debug\Proyecto de Inventario.pdb
+E:\SHIRLEY\Proyecto de Inventario\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmLogin.resources
+E:\SHIRLEY\Proyecto de Inventario\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmMenuPrincipal.resources
+E:\SHIRLEY\Proyecto de Inventario\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmPrestamosDevoluciones.resources
+E:\SHIRLEY\Proyecto de Inventario\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmGestionUsuarios.resources
+E:\SHIRLEY\Proyecto de Inventario.2\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.exe.config
+E:\SHIRLEY\Proyecto de Inventario.2\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.exe
+E:\SHIRLEY\Proyecto de Inventario.2\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.pdb
+E:\SHIRLEY\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.AssemblyReference.cache
+E:\SHIRLEY\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.frmGestionEquipos.resources
+E:\SHIRLEY\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmGestionUsuarios.resources
+E:\SHIRLEY\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmLogin.resources
+E:\SHIRLEY\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmMenuPrincipal.resources
+E:\SHIRLEY\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmPrestamosDevoluciones.resources
+E:\SHIRLEY\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Properties.Resources.resources
+E:\SHIRLEY\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.GenerateResource.cache
+E:\SHIRLEY\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.CoreCompileInputs.cache
+E:\SHIRLEY\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto de Inventario.exe
+E:\SHIRLEY\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto de Inventario.pdb
+E:\SHIRLEY\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.exe.config
+E:\SHIRLEY\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.exe
+E:\SHIRLEY\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.pdb
+E:\SHIRLEY\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.AssemblyReference.cache
+E:\SHIRLEY\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.frmGestionEquipos.resources
+E:\SHIRLEY\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmGestionUsuarios.resources
+E:\SHIRLEY\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmLogin.resources
+E:\SHIRLEY\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmMenuPrincipal.resources
+E:\SHIRLEY\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmPrestamosDevoluciones.resources
+E:\SHIRLEY\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Properties.Resources.resources
+E:\SHIRLEY\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.GenerateResource.cache
+E:\SHIRLEY\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.CoreCompileInputs.cache
+E:\SHIRLEY\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto de Inventario.exe
+E:\SHIRLEY\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto de Inventario.pdb
+C:\Users\hilar\Desktop\Inventario\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.exe.config
+C:\Users\hilar\Desktop\Inventario\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.exe
+C:\Users\hilar\Desktop\Inventario\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.pdb
+C:\Users\hilar\Desktop\Inventario\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.AssemblyReference.cache
+C:\Users\hilar\Desktop\Inventario\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.frmGestionEquipos.resources
+C:\Users\hilar\Desktop\Inventario\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmGestionUsuarios.resources
+C:\Users\hilar\Desktop\Inventario\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmLogin.resources
+C:\Users\hilar\Desktop\Inventario\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmMenuPrincipal.resources
+C:\Users\hilar\Desktop\Inventario\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmPrestamosDevoluciones.resources
+C:\Users\hilar\Desktop\Inventario\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Properties.Resources.resources
+C:\Users\hilar\Desktop\Inventario\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.GenerateResource.cache
+C:\Users\hilar\Desktop\Inventario\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.CoreCompileInputs.cache
+C:\Users\hilar\Desktop\Inventario\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto de Inventario.exe
+C:\Users\hilar\Desktop\Inventario\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto de Inventario.pdb
+C:\Users\hilar\Desktop\InventarioFinal\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.exe.config
+C:\Users\hilar\Desktop\InventarioFinal\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.exe
+C:\Users\hilar\Desktop\InventarioFinal\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.pdb
+C:\Users\hilar\Desktop\InventarioFinal\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.AssemblyReference.cache
+C:\Users\hilar\Desktop\InventarioFinal\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.frmGestionEquipos.resources
+C:\Users\hilar\Desktop\InventarioFinal\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmGestionUsuarios.resources
+C:\Users\hilar\Desktop\InventarioFinal\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmLogin.resources
+C:\Users\hilar\Desktop\InventarioFinal\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmMenuPrincipal.resources
+C:\Users\hilar\Desktop\InventarioFinal\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmPrestamosDevoluciones.resources
+C:\Users\hilar\Desktop\InventarioFinal\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Properties.Resources.resources
+C:\Users\hilar\Desktop\InventarioFinal\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.GenerateResource.cache
+C:\Users\hilar\Desktop\InventarioFinal\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.CoreCompileInputs.cache
+C:\Users\hilar\Desktop\InventarioFinal\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto de Inventario.exe
+C:\Users\hilar\Desktop\InventarioFinal\Proyecto de Inventario.3\Proyecto de Inventario.2\Proyecto de Inventario\obj\Debug\Proyecto de Inventario.pdb
+C:\Users\hilar\Desktop\Sistema de Control de Inventario_prueba\Sistema de Control de Inventario\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.exe.config
+C:\Users\hilar\Desktop\Sistema de Control de Inventario_prueba\Sistema de Control de Inventario\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.exe
+C:\Users\hilar\Desktop\Sistema de Control de Inventario_prueba\Sistema de Control de Inventario\Proyecto de Inventario\bin\Debug\Proyecto de Inventario.pdb
+C:\Users\hilar\Desktop\Sistema de Control de Inventario_prueba\Sistema de Control de Inventario\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.AssemblyReference.cache
+C:\Users\hilar\Desktop\Sistema de Control de Inventario_prueba\Sistema de Control de Inventario\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.frmGestionEquipos.resources
+C:\Users\hilar\Desktop\Sistema de Control de Inventario_prueba\Sistema de Control de Inventario\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmGestionUsuarios.resources
+C:\Users\hilar\Desktop\Sistema de Control de Inventario_prueba\Sistema de Control de Inventario\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmLogin.resources
+C:\Users\hilar\Desktop\Sistema de Control de Inventario_prueba\Sistema de Control de Inventario\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmMenuPrincipal.resources
+C:\Users\hilar\Desktop\Sistema de Control de Inventario_prueba\Sistema de Control de Inventario\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Formularios.frmPrestamosDevoluciones.resources
+C:\Users\hilar\Desktop\Sistema de Control de Inventario_prueba\Sistema de Control de Inventario\Proyecto de Inventario\obj\Debug\Proyecto_de_Inventario.Properties.Resources.resources
+C:\Users\hilar\Desktop\Sistema de Control de Inventario_prueba\Sistema de Control de Inventario\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.GenerateResource.cache
+C:\Users\hilar\Desktop\Sistema de Control de Inventario_prueba\Sistema de Control de Inventario\Proyecto de Inventario\obj\Debug\SISTEMA_INVENTARIO.csproj.CoreCompileInputs.cache
+C:\Users\hilar\Desktop\Sistema de Control de Inventario_prueba\Sistema de Control de Inventario\Proyecto de Inventario\obj\Debug\Proyecto de Inventario.exe
+C:\Users\hilar\Desktop\Sistema de Control de Inventario_prueba\Sistema de Control de Inventario\Proyecto de Inventario\obj\Debug\Proyecto de Inventario.pdb
